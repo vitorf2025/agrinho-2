@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #00aeff;
+    background-color: #;00a2ff
 }
 
 
@@ -57,7 +57,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--azul-claro);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -69,7 +69,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--azul-claro);
 }
 
 
@@ -98,7 +98,7 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(--azul-claro);
 }
 
 #galeria {
@@ -131,7 +131,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #00a2ff;
     border: none;
     font-weight: bold;
 }
